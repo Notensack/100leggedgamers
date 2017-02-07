@@ -7,6 +7,7 @@ html, body {
 
 h1 {
   font-size: 48px;
+  text-align: center;
 }
 
 p {
@@ -19,44 +20,13 @@ h2 {
   font-size: 2.6rem;
 }
 
-div {
-  padding-right: 30px;
-  height: 100%;
-  width: 100%;
-}
-
-video {
-  background-color: #000000;
-  border: 2px solid black;
-}
-
-.container {
-  display: flex;
-}
-
-.main {
-  display: 50%;
-  padding-left: 30px;
-  min-width: 75%;
-}
-
-.nav {
-  background-color: #FFEE00;
-  max-width: 25%;
-  min-width: 140px;
-  flex: 1;
-}
-
-.nav h1 {
-  padding-left: 20px;
-}
-
 li {
   display: inline;
+  text-align: center;
 }
 
 .contact-btn {
-  float: right;
+  text-align: right;
 }
 
 .contact-btn a {
