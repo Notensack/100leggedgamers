@@ -25,6 +25,10 @@ li {
   text-align: center;
 }
 
+.news {
+  text-decoration: none;
+  color: #cc0000, .5em, ; 
+
 .contact-btn {
   text-align: right;
 }
