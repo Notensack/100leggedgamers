@@ -23,6 +23,7 @@ h2 {
 li {
   display: inline;
   text-align: center;
+  border: 3px solid #199A28;
 }
 
 .news {
