@@ -30,6 +30,8 @@ li {
   text-decoration: none;
   color: #cc0000, 32px;
   text-align: center;
+  border: 2px dashed #6495ED;
+  background-color: #BCD2EE;
 }
 
 .contact-btn {
