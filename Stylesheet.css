@@ -4,7 +4,7 @@
     margin: auto;
 }
 
-.news {
+.nav {
     display: inline-block;
     text-decoration: none;
     border: 3px solid #000;
@@ -26,4 +26,9 @@
 .contact-btn a:active {
   position: relative;
   bottom: 2px;
+}
+
+a:link {
+    text-decoration: none;
+    font-family: sans-serif;
 }
