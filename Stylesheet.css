@@ -13,11 +13,10 @@
     text-decoration: none;
     border: 3px solid #000;
     border-radius: 20%;
+    background-color: #F3x20B;
 }
 
-.nav < a {
-    border: 1px solid #F3xc32;
-}
+
 
 .contact-btn {
   text-align: right;
