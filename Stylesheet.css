@@ -60,6 +60,6 @@ a:hover {
     color: #86592d;
     
 #footer {
-    float: both;
+    clear: both;
     font-size 10px
     }
