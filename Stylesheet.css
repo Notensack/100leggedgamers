@@ -4,7 +4,7 @@
 
 #header {
     padding: 2px;
-    margin-bottom: 20px;
+    margin-bottom: -20px;
     position: fixed;
     z-index: 1;
     height: 5%;
@@ -17,6 +17,11 @@
 
 .right {
     float: right;
+}
+
+#footer {
+    clear: both;
+    font-size 10px
 }
 
 .nav {
@@ -61,8 +66,3 @@ a:link {
 
 a:hover {
     color: #86592d;
-    
-#footer {
-    clear: both;
-    font-size 10px
-    }
