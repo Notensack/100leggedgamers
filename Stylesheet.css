@@ -46,6 +46,8 @@ div {
 
 #footer {
     clear: both;
+    margin-bottom: 5px;
+    padding-top: 5px;
 }
 
 .topbar {
