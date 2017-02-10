@@ -36,6 +36,7 @@ div {
     height: 90%;
     width: 7%;
     float: right;
+    margin-right: 0px;
 }
 
 #footer {
