@@ -8,6 +8,10 @@ h2 a {
     text-align: center;
 }
 
+.news {
+    display: inline-block;
+}
+
 .contact-btn {
   text-align: right;
 }
