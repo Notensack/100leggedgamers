@@ -2,7 +2,7 @@
     margin: auto;
 }
 
-#Web {
+#header {
     padding: 2px;
     margin-bottom: 20px;
     position: fixed;
@@ -49,3 +49,8 @@ a:link {
 
 a:hover {
     color: #86592d;
+    
+#footer {
+    float: both;
+    font-size 10px
+    }
