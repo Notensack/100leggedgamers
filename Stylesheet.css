@@ -32,10 +32,9 @@ div {
 }
 
 .content {
-    height: 720px;
-    width: 480px;
+    height: 640px;
+    width: 360px;
     padding: 5px;
-    margin: auto;
     margin-top: 80px;
     margin-left: 20px;
     margin-right: 20px;
