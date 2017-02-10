@@ -8,6 +8,14 @@
     position: fixed;
 }
 
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
 .nav {
     display: inline-block;
     text-decoration: none;
