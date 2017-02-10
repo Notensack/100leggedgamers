@@ -1,33 +1,36 @@
+div {
+    border-radius: 5px;
+    color: 2px; inset #B6BEEB;
+    background-color: #666;
+}
+
 #header {
-    padding: 2px;
-    position: fixed;
-    z-index: 1;
     height: 10%;
-    width: 80%;
-    color: #B6BEEB;
+    width: 70%;
+    margin: auto;
 }
 
 .left {
     height: 100%;
-    width: 10%;
-    margin-top; 6.5%;
+    width: 15%;
+    margin-top: -6.5%;
     float: left;
-    background-color: #76D8DF;
+    color: #B6BEEB
 }
 
 .right {
     height: 100%;
-    width: 10%;
-    background-color: #76D8DF;
+    width: 15%;
+    margin-top: -6.5%;
     float: right;
 }
 
 #footer {
     clear: both;
-    font-size 10px
 }
 
 .nav {
+    height:
     display: inline-block;
     text-decoration: none;
     border: 3px solid #616161;
