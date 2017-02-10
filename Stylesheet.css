@@ -5,6 +5,8 @@
 div {
     border-radius: 5px;
     border: 2px; inset #cc6699;
+    opacity: .5;
+    background-color: #88ff4d;
 }
 
 #header {
