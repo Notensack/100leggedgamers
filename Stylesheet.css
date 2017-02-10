@@ -1,3 +1,7 @@
+* {
+    background-color: #C8EEF8;
+}
+
 div {
     border-radius: 5px;
     color: 2px; inset #B6BEEB;
@@ -37,11 +41,6 @@ div {
     padding: 5px;
     margin: 20px 5px 20px 5px;
     float: both;
-}
-
-.topbar {
-    border: 1px solid #616161;
-    padding: 10px
 }
 
 
