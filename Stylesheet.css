@@ -37,6 +37,7 @@ div {
 
 .topbar {
     display: inline-block;
+    margin: auto;
 }
 .contact-btn {
   text-align: right;
