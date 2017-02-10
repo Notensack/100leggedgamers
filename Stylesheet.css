@@ -3,9 +3,8 @@
 }
 
 #Web {
-    display: inline-block;
     padding: 2px;
-    margin: auto;
+    margin-bottom: 20px;
     position: fixed;
 }
 
