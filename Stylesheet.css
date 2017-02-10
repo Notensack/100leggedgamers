@@ -20,7 +20,8 @@ div {
     height: 90%;
     width: 10%;
     float: left;
-    color: #B6BEEB
+    color: #B6BEEB;
+    position: relative
 }
 
 .content {
@@ -32,6 +33,7 @@ div {
     height: 90%;
     width: 10%;
     float: right;
+    position: relative;
 }
 
 #footer {
