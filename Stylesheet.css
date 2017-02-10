@@ -39,6 +39,7 @@ div {
     margin-left: 20px;
     margin-right: 20px;
     position: relative;
+    opacity: 1;
 }
 
 .right {
