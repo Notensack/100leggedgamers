@@ -4,14 +4,16 @@
 
 #header {
     padding: 2px;
-    margin-bottom: -20px;
     position: fixed;
     z-index: 1;
-    height: 5%;
-    width: 100%;
+    height: 10%;
+    width: 80%;
 }
 
 .left {
+    height: 100%;
+    width: 10%;
+    margin-top; 6.5%;
     float: left;
 }
 
