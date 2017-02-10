@@ -28,7 +28,6 @@
 }
 
 .nav {
-    column-count: 5;
     display: inline-block;
     text-decoration: none;
     border: 3px solid #616161;
