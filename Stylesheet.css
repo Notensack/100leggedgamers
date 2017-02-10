@@ -21,6 +21,7 @@
 
 .contact-btn {
   text-align: right;
+    clear: both;
 }
 
 .contact-btn a {
