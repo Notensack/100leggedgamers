@@ -5,6 +5,7 @@ h1 {
 .news {
     display: inline-block;
     text-align: center;
+    text-decoration: none;
 }
 
 .contact-btn {
