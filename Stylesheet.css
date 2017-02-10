@@ -22,13 +22,12 @@ div {
     width: 7%;
     float: left;
     color: #B6BEEB;
-    clear: initial;
     position: fixed;
 }
 
 .content {
-    height: 720px;
-    width: 480px;
+    height: 80%;
+    width: 80%;
     margin: auto;
     margin-top: 10%;
 }
@@ -38,7 +37,6 @@ div {
     width: 7%;
     float: right;
     position: fixed;
-    clear: initial;
 }
 
 #footer {
