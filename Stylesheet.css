@@ -1,5 +1,5 @@
 * {
-    background-color: #C8EEF8;
+    background-color: #000;
     text-align: center;
 }
 
@@ -13,6 +13,7 @@ div {
     height: 10%;
     width: 100%;
     margin: auto;
+    z-index: 1;
 }
 
 .left {
@@ -22,6 +23,10 @@ div {
     color: #B6BEEB
 }
 
+.content {
+    height: 80%;
+    width: 70%;
+}
 .right {
     height: 90%;
     width: 15%;
