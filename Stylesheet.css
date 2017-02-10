@@ -21,6 +21,7 @@ div {
     float: left;
     color: #B6BEEB;
     clear: initial;
+    position: fixed;
 }
 
 .content {
@@ -32,6 +33,7 @@ div {
     height: 90%;
     width: 7%;
     float: right;
+    position: fixed;
     clear: initial;
 }
 
