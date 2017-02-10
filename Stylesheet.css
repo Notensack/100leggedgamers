@@ -14,6 +14,7 @@ div {
     width: 1920px;
     margin: auto;
     margin-top: -20px;
+    margin-bottom: 10px;
     z-index: 1;
     position: fixed;
 }
@@ -24,6 +25,8 @@ div {
     float: left;
     color: #B6BEEB;
     position: fixed;
+    margin-left: 5px;
+    padding-top: 5px;
 }
 
 .content {
@@ -37,7 +40,8 @@ div {
     height: 90%;
     width: 7%;
     float: right;
-    margin-right: 0px;
+    margin-right: 5px;
+    padding-top: 5px;
 }
 
 #footer {
