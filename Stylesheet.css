@@ -28,8 +28,7 @@ div {
     position: relative;
     height: 720px;
     width: 480px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .right {
