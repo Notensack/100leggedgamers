@@ -1,9 +1,10 @@
 h1 {
-    display: center;
+    text-align: 50%;
 }
 
 .news {
     display: inline-block;
+    text-align: center;
 }
 
 .contact-btn {
