@@ -21,7 +21,7 @@ div {
 
 .left {
     height: 90%;
-    width: 7%;
+    width: 10%;
     float: left;
     color: #B6BEEB;
     position: relative;
@@ -33,7 +33,7 @@ div {
 
 .right {
     height: 90%;
-    width: 7%;
+    width: 85%;
     float: right;
     margin-top: 160px;
     margin-bottom: 10px;
