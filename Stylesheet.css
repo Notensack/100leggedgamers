@@ -45,6 +45,9 @@ div {
     position: relative;
     padding-top: 15px;
     display: inline-block;
+    margin: auto;
+    height: 70px;
+    width: 80%;
 }
 
 .topbar {
