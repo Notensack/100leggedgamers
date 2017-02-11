@@ -43,6 +43,7 @@ div {
     clear: both;
     position: relative;
     padding-top: 15px;
+    display: inline-block;
 }
 
 .topbar {
