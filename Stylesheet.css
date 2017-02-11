@@ -48,7 +48,7 @@ h1 {
     clear: both;
     position: relative;
     padding-top: 15px;
-    display: inline-block;
+    display: inline;
     margin: auto;
     height: 50px;
     width: 80%;
