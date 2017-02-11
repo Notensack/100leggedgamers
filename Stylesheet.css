@@ -20,6 +20,10 @@ div {
     padding: 5px;
 }
 
+#header > h1 {
+    background-image: ('aws-website-leggedgamerscom-ge55i/img/')
+}
+
 .left {
     height: 90%;
     width: 10%;
