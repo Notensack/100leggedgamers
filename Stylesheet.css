@@ -17,6 +17,7 @@ div {
     margin-bottom: 10px;
     z-index: 1;
     position: fixed;
+    padding: 5px;
 }
 
 .left {
