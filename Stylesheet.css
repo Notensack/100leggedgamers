@@ -18,3 +18,13 @@ div {
 	background-color: #668284;
 	margin-bottom: 10px;
 }
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #616161;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+}
