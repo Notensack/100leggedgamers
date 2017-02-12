@@ -27,10 +27,14 @@ div {
 	background-color: #66ff33;
 	color: #862d86;
 	display: inline;
+	
 }
 
 .topbar {
+	position: relative;
 	margin-top: 5px;
+	font-family: Roboto Serif;
+}
 
 #footer {
 	position: relative;
