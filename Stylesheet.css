@@ -9,14 +9,21 @@ div {
     background-color: #88ff4d;
 }
 
+@font-face {
+	font-family: Libre Baskerville;
+	src: https://fonts.google.com/specimen/Libre+Baskerville;
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
 	margin-bottom: 10px;
+	background-color: #66ff33;
+	color: #862d86;
+	font-family: Libre Baskerville;
 }
 
 #footer {
