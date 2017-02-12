@@ -28,6 +28,13 @@ div {
 	color: #862d86;
 }
 
+#header a {
+	margin-top 50%;
+	float:left;
+}
+#header a a {
+	margin-top 50%;
+	float: left;
 #footer {
 	position: relative;
 	height: 50px;
