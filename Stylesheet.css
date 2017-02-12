@@ -26,14 +26,6 @@ div {
 	margin-bottom: 10px;
 	background-color: #66ff33;
 	color: #862d86;
-	display: inline;
-	
-}
-
-.topbar {
-	position: relative;
-	margin-top: 5px;
-	font-family: Roboto Serif;
 }
 
 #footer {
@@ -64,4 +56,8 @@ div {
 	height: 400px;
 	background-color: #F4EBC3;
 	margin-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
 }
