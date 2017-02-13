@@ -1,0 +1,156 @@
+* {
+  text-decoration: none;
+}
+
+.header_box {
+  width: 100%;
+}
+.header {
+  width: 98.5%;
+  margin-top: -8px;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-color: #b3ff99;
+  border: 5px solid #bf00ff;
+  border-radius: 5px;
+  background-image:url(https://s3.amazonaws.com/aws-website-leggedgamerscom-ge55i/img/100+Legged+Gamer+Logo.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  text-align: left;
+  text-shadow: 1px 1px white;
+  overflow-x: auto;
+}
+
+.header a h1 {
+  padding: 5px;
+  font: 200% Fantasy;
+  color: #bf00ff;
+  display: inline-block;
+}
+
+.navbar {
+  color: #bf00ff;
+  margin: 5px;
+  position: relative;
+  border: 3px solid #bf00ff;
+  padding: 5px;
+  border-radius: 20%;
+  font: 150% fantasy;
+  display: inline-block;
+}
+
+a:hover {
+  color: #b3ff99;
+  background-color: #bf00ff;
+  text-shadow: 2px 2px black;
+}
+a:active {
+  background-color: white;
+  padding-bottom: 2px;
+}
+
+body {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.container {
+  width: 100%;
+  padding-left: 25%; /* LC width */
+  padding-right: 25%;  /* RC width */
+  display: inline-block;
+  padding-top: 10px;
+}
+
+.column {
+  position: relative;
+  float: left;
+}
+.center {
+  background-color: #bf00ff;
+  border: 5px solid  #b3ff99;
+  width: 49%;
+  min-height: 480px;
+  border-radius: 5px;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+iframe {
+  padding: 1%;
+ height: 720px;
+ width: 98%;
+}
+
+
+/* THIS IS THE LEFT BAR */
+.left {
+  background-color: #bf00ff;
+  border: 5px solid #b3ff99;
+  border-radius: 5px;
+  width: 25%;
+  left: -76.5%;
+  font: 150%  fantasy;
+  color: #b3ff99;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+.left h4 {
+  border-top: 5px solid #b3ff99
+  padding: 2px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.left table {
+  border-top: 5px solid #b3ff99;
+  border-bottom: 5px solid #b3ff99;
+  padding: 10px;
+  margin: auto;
+  float: left;
+  width: 100%;
+}
+
+.left th {
+  padding: 3px;
+  border-bottom: 5px solid #b3ff99;
+  width: 100%;
+}
+
+.left td {
+  padding: 5px;
+  max-width: 100%;
+  overflow-x: auto;
+  
+}
+
+/* THIS IS THE RIGHT BAR */
+.right {
+  background-color: #bf00ff;
+  border: 5px solid #b3ff99;
+  min-height: 480px;
+  width: 21.5%;
+  right: 26%;
+  border-radius: 5px;
+}
+.footer {
+  clear: both;
+  min-height: 60px;
+  border: 5px solid #bf00ff;
+  border-radius: 5px;
+  text-shadow: 1px 1px white;
+  background-color: #b3ff99;
+  color: #bf00ff;
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 5px;
+  font-size: 125%;
+}
+
+/*** IE6 Fix ***/
+* html .left {
+  left: 270px;           /* RC width */
+}
