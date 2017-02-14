@@ -6,7 +6,7 @@
   width: 100%;
 }
 .header {
-  width: 98.5%;
+  width: 98%;
   margin-top: -8px;
   padding: 0;
   background-repeat: no-repeat;
@@ -50,16 +50,14 @@ a:active {
 }
 
 body {
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
+  background-color: #ccc;
 }
-
 .container {
   width: 100%;
-  padding-left: 25%; /* LC width */
-  padding-right: 25%;  /* RC width */
   display: inline-block;
-  padding-top: 10px;
+  padding: .5%;
+  margin: 1%;
 }
 
 .column {
@@ -67,19 +65,14 @@ body {
   float: left;
 }
 .center {
-  background-color: #bf00ff;
-  border: 5px solid  #b3ff99;
-  width: 49%;
-  min-height: 480px;
-  border-radius: 5px;
-  margin-left: 1%;
-  margin-right: 1%;
+  width: 60%;
+  left: 20%;
 }
 
 iframe {
   padding: 1%;
- height: 720px;
- width: 98%;
+  width: 100%;
+  max-height: 480px;
 }
 
 
@@ -88,34 +81,34 @@ iframe {
   background-color: #bf00ff;
   border: 5px solid #b3ff99;
   border-radius: 5px;
-  width: 25%;
-  left: -76.5%;
-  font: 150%  fantasy;
+  width: 20%;
+  right: 61%;
+  font: 100%  fantasy;
   color: #b3ff99;
   text-align: center;
   text-shadow: 2px 2px black;
-}
-
-.left h4 {
-  border-top: 5px solid #b3ff99
-  padding: 2px;
-  margin: 10px;
-  display: inline-block;
+  overflow: auto;
+  min-height: 480px;
 }
 
 .left table {
-  border-top: 5px solid #b3ff99;
-  border-bottom: 5px solid #b3ff99;
-  padding: 10px;
   margin: auto;
-  float: left;
   width: 100%;
+  overflow: scroll;
+  min-height: 480px;
 }
 
 .left th {
   padding: 3px;
   border-bottom: 5px solid #b3ff99;
   width: 100%;
+}
+.UR {
+  font-size: 150%;
+}
+
+.TDP {
+  font-size: 125%;
 }
 
 .left td {
@@ -129,14 +122,14 @@ iframe {
 .right {
   background-color: #bf00ff;
   border: 5px solid #b3ff99;
+  width: 15%;
+  right: -.8%;
   min-height: 480px;
-  width: 21.5%;
-  right: 26%;
   border-radius: 5px;
 }
 .footer {
   clear: both;
-  min-height: 60px;
+  height: 15%;
   border: 5px solid #bf00ff;
   border-radius: 5px;
   text-shadow: 1px 1px white;
@@ -145,8 +138,6 @@ iframe {
   margin: auto;
   padding: 5px;
   text-align: center;
-  margin-top: 10px;
-  padding-top: 5px;
   font-size: 125%;
 }
 
