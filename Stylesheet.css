@@ -79,7 +79,6 @@ iframe {
 /* THIS IS THE LEFT BAR */
 .left {
   background-color: #bf00ff;
-  border: 5px solid #b3ff99;
   border-radius: 5px;
   width: 20%;
   right: 61%;
@@ -87,36 +86,27 @@ iframe {
   color: #b3ff99;
   text-align: center;
   text-shadow: 2px 2px black;
-  overflow: auto;
   min-height: 480px;
+  overflow: hidden;
+  border: 5px solid #b3ff99;
 }
 
 .left table {
-  margin: auto;
   width: 100%;
-  overflow: scroll;
   min-height: 480px;
 }
 
-.left th {
-  padding: 3px;
-  border-bottom: 5px solid #b3ff99;
-  width: 100%;
-}
-.UR {
+.ur {
   font-size: 150%;
+  padding: -1%;
+  border-bottom: 5px solid #b3ff99;
 }
 
 .TDP {
   font-size: 125%;
+  border-bottom: 5px solid #b3ff99;
 }
 
-.left td {
-  padding: 5px;
-  max-width: 100%;
-  overflow-x: auto;
-  
-}
 
 /* THIS IS THE RIGHT BAR */
 .right {
@@ -139,9 +129,4 @@ iframe {
   padding: 5px;
   text-align: center;
   font-size: 125%;
-}
-
-/*** IE6 Fix ***/
-* html .left {
-  left: 270px;           /* RC width */
 }
