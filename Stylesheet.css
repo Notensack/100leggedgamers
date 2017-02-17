@@ -100,6 +100,10 @@ body {
 
 .pagination a:hover:not(.active) {background-color: #ddd;}
 
+.pagination a:click {
+  
+}
+
 
 iframe {
   padding: 2%;
@@ -173,7 +177,7 @@ iframe {
   position: relative;
   border: 3px solid #bf00ff;
   padding: 5px;
-  border-radius: 20%;
+  border-radius: 5px;
   font: 100% fantasy;
   display: inline-block;
   cursor: pointer;
