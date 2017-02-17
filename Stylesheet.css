@@ -8,14 +8,11 @@
 }
 
 .header {
-  margin-top: -8px;
+  margin-top: -3%;
   padding: 0;
-  background-repeat: no-repeat;
-  background-image:url(https://s3.amazonaws.com/aws-website-leggedgamerscom-ge55i/img/100+Legged+Gamer+Logo.png);
   background-position: center;
   text-align: center;
-  text-shadow: 1px 1px white;
-  overflow-x: auto;
+  text-shadow: 1px 1px black;
 }
 
 .header a h1 {
@@ -26,7 +23,7 @@
 
 nav {
   text-align: center;
-  margin-top: 5px;
+  margin-top: -3%;
   padding: 10px;
   background-color: #b3ff99;
   border: 5px solid #bf00ff;
